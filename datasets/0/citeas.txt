@@ -1,0 +1,4 @@
+Kuh, Hyo-Jeong, et al. "Computational model of intracellular pharmacokinetics of paclitaxel." 
+Journal of Pharmacology and Experimental Therapeutics 293.3 (2000): 761-770.
+
+Data from Figure 1 and Tables
