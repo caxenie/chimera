@@ -1,6 +1,6 @@
 ## CHIMERA: Combining Mechanistic Models and Machine Learning for Personalized Chemotherapy and Surgery Sequencing in Breast Cancer
 
-Code repository for "CHIMERA: Combining Mechanistic Models and Machine Learning for Personalized Chemotherapy and Surgery Sequencing in Breast Cancer"  by Cristian Axenie and Daria Kurz submitted at IEEE BIBE 2020.
+Code repository for "CHIMERA: Combining Mechanistic Models and Machine Learning for Personalized Chemotherapy and Surgery Sequencing in Breast Cancer"  by Cristian Axenie and Daria Kurz submitted at 2nd International Symposium on Mathematical and Computational Oncology (ISMCO) 2020.
 
 CHIMERA Codebase:
 
